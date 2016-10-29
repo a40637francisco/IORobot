@@ -1,0 +1,3 @@
+mouseMove/870:550
+mouseClick/0
+mouseClick/0

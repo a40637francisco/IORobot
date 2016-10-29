@@ -1,0 +1,3 @@
+mouseMove/938:158
+mouseClick/0
+keyClick/a

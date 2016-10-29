@@ -1,0 +1,6 @@
+repeat/2
+mouseMove/334:189
+wait/1
+mouseMove/745:178
+wait/1
+}
